@@ -54,7 +54,7 @@ One final note; the textbook is heavy. Please don’t bring it to class. There i
 27    	EXAM 1
 28	Mistnetting - South Jenkins Roads
 
- OCTOBER
+### OCTOBER
 2      	Avian physiology I							Chapter 7.1–7.4
 4 	Avian physiology II							Chapter 7.5–7.8		
 5	No Lab (Review of Birds of Oklahoma and Form/Function)
@@ -69,7 +69,7 @@ One final note; the textbook is heavy. Please don’t bring it to class. There i
 28	Saturday Trip to Hackberry Flats/	
 30    	Avian Sound Evolutionary Ecology					Chapter 10.5–10.8
 
-NOVEMBER
+### NOVEMBER
 1    	EXAM 2
 2	Skinning I
 6   	Breeding Biology I							Chapter 11.1–11.5
@@ -84,19 +84,19 @@ NOVEMBER
 29 	Community ecology							Chapter 14.8–14.13
 30	Birds of Oklahoma II
 
-DECEMBER
+### DECEMBER
 4	Conservation: Avian extinction and declines				Chapter 15.1–15.5
-6        	Conservation: Regulations and current topics				Chapter 15.6–15.9
+6        Conservation: Regulations and current topics				Chapter 15.6–15.9
 7	Lab Practical - Birds of Oklahoma
 
-GRADING
+## GRADING
 Exam 1				100
 Exam 2				100
 Final Exam 			150
 Lab Practical I			100
-Lab Practical II			100
+Lab Practical II		100
 Lecture & Lab Quizzes		100
-Zoo Scavenger Hunt		   50
+Zoo Scavenger Hunt		 50
 eBird /Field Notes		100
 Bird Report			200
 
