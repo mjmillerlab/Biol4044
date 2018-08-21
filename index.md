@@ -19,7 +19,8 @@ You will need to invest in a quality field guide to wild birds. This guide shoul
 ### Binoculars: 
 You will probably want to invest in a good pair of field binoculars. Anyone pursuing a career or graduate study in ecology, zoology, or wildlife will need a good pair of binoculars. And luckily, binocular technology has really improved over the last 10 years. You now can buy an excellent pair of binoculars for a few hundred dollars. Check out optics4birding.com for some recommendations. We will discuss binoculars during the first day of class. If you chose not to purchase your own binoculars, the Biology department has some that you can check out. Details to follow.
 
-### Textbook:  I have chosen the Handbook of Bird Biology, 3rd edition for this course. It is written as a textbook for bird enthusiasts. It has great examples from contemporary research, and awesome illustrations. Lecture material will be based largely on the material in this book.  I assign typically half of a chapter for each lecture.
+### Textbook:  
+I have chosen the Handbook of Bird Biology, 3rd edition for this course. It is written as a textbook for bird enthusiasts. It has great examples from contemporary research, and awesome illustrations. Lecture material will be based largely on the material in this book.  I assign typically half of a chapter for each lecture.
 
 Contemporary educational theory suggests that you will learn most by reading ahead of class. That way, our lecture time can be more interactive, as you are not seeing new concepts for the first and only time. However, I was a college student too, and I know that it was sometimes hard to find the time/motivation to read ahead of lecture. To encourage reading, most lectures will start with a brief reading quiz. This quiz is designed to encourage textbook reading accountability.
 
@@ -33,11 +34,11 @@ One final note; the textbook is heavy. Please don’t bring it to class. There i
 
 ## CLASS SCHEDULE 
 ### AUGUST
-21      Intro to course; importance of birds
-23 	Avian classification, phylogenetics, biogeography 			Chapter 2.1–2.3
-24	Ornithology Collection Tour
-28    	Origins of birds, Families of birds 					Chapter 2.4, Box2.09
-30    	Evolution of birds: natural and sexual selection			Chapter 3.1–3.2
+21 |Intro to course; importance of birds| 
+23 |Avian classification, phylogenetics, biogeography|Chapter 2.1–2.3
+24 |Ornithology Collection Tour | 
+28 |Origins of birds, Families of birds| Chapter 2.4, Box2.09
+30 |Evolution of birds: natural and sexual selection| Chapter 3.1–3.2
 31	Introduction to Bird Observation/Identification – South Jenkins
 
 ### SEPTEMBER
