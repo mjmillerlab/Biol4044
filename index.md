@@ -33,13 +33,14 @@ One final note; the textbook is heavy. Please don’t bring it to class. There i
 		
 
 ## CLASS SCHEDULE 
-### AUGUST
-21 |Intro to course; importance of birds| 
-23 |Avian classification, phylogenetics, biogeography|Chapter 2.1–2.3
-24 |Ornithology Collection Tour | 
-28 |Origins of birds, Families of birds| Chapter 2.4, Box2.09
-30 |Evolution of birds: natural and sexual selection| Chapter 3.1–3.2
-31	Introduction to Bird Observation/Identification – South Jenkins
+
+Date | Topic| Reading
+21 | Intro to course; importance of birds| 
+23 | Avian classification, phylogenetics, biogeography| Chapter 2.1–2.3
+24 | Ornithology Collection Tour | 
+28 | Origins of birds, Families of birds| Chapter 2.4, Box2.09
+30 | Evolution of birds: natural and sexual selection| Chapter 3.1–3.2
+31 | Introduction to Bird Observation/Identification – South Jenkins|  
 
 ### SEPTEMBER
 4      	Evolution of Birds: Speciation						Chapter 3.3
