@@ -37,7 +37,7 @@ One final note; the textbook is heavy. Please don’t bring it to class. There i
 Date | Topic| Reading
 --- | --- | ---
 AUG21 | Intro to course; importance of birds|([Slides](https://github.com/mjmillerlab/Biol4044/blob/master/BIOL4404_Class1-2018.pdf))|
-AUG23 | Avian classification, phylogenetics, biogeography| Chapter 2.1–2.3 ([Slides](https://github.com/mjmillerlab/Biol4044/blob/master/BIOL4404_Class2-2018.pdf))|
+AUG23 | Avian classification, phylogenetics, biogeography| Chapter 2.1–2.3 ([Slides](https://github.com/mjmillerlab/Biol4044/blob/master/BIOL4404_Class2_2018.pdf))|
 **AUG24** | **Ornithology Collection Tour** | 
 AUG28 | Origins of birds, Families of birds| Chapter 2.4, Box2.09
 AUG30 | Evolution of birds: natural and sexual selection | Chapter 3.1–3.2
