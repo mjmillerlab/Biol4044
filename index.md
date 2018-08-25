@@ -54,23 +54,19 @@ SEP21 | Bird Form and Function |
 SEP25 | Avian anatomy II | Chapter 6.5–6.8
 SEP27 | EXAM 1 | 
 SEP28 | Mistnetting - South Jenkins Roads | 
-
-
-
-
-OCT02 | Avian physiology I							Chapter 7.1–7.4
-4 | Avian physiology II							Chapter 7.5–7.8		
-5 | No Lab (Review of Birds of Oklahoma and Form/Function)
-9 | Dispersal and Evolution of Migration					Chapter 12.1–2; 12.6–7
-11 | Migration								Chapter 12.3–12.5
-12 – 14 		Black Mesa Trip
-16    	Avian foraging 								Chapter 8.1–8.5
-18	Mating & Social Behavior	: Preferences					Chapter 9.1–9.3
-19 	Lab Practical - Avian Form and Function
-23    	Mating & Social Behavior	: Sexual selection, social behavior			Chapter 9.4–9.6
-25    	Vocalizations: Mechanics							Chapter 10.1–104
-28	Saturday Trip to Hackberry Flats/	
-30    	Avian Sound Evolutionary Ecology					Chapter 10.5–10.8
+OCT02 | Avian physiology I | Chapter 7.1–7.4
+OCT04 | Avian physiology II	 | Chapter 7.5–7.8		
+OCT05 | No Lab (Review of Birds of Oklahoma and Form/Function)
+OCT09 | Dispersal and Evolution of Migration | Chapter 12.1–2; 12.6–7
+OCT11 | Migration | Chapter 12.3–12.5
+OCT12 – 14 | Black Mesa Trip
+OCT16 | Avian foraging 	 | Chapter 8.1–8.5
+OCT18 | Mating & Social Behavior: Preferences | Chapter 9.1–9.3
+OCT19 | Lab Practical - Avian Form and Function | 
+OCT23 | Mating & Social Behavior: Sexual selection, social behavior | Chapter 9.4–9.6
+OCT25 | Vocalizations: Mechanics | Chapter 10.1–104
+OCT28 | Saturday Trip to Hackberry Flats/Hagerman NWR	
+OCT30 | Avian Sound Evolutionary Ecology | Chapter 10.5–10.8
 
 ### NOVEMBER
 1    	EXAM 2
