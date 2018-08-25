@@ -38,50 +38,50 @@ Date | Topic| Reading
 --- | --- | ---
 AUG21 | Intro to course; importance of birds| 
 AUG23 | Avian classification, phylogenetics, biogeography| Chapter 2.1–2.3
-AUG24 | Ornithology Collection Tour | 
+**AUG24** | **Ornithology Collection Tour** | 
 AUG28 | Origins of birds, Families of birds| Chapter 2.4, Box2.09
 AUG30 | Evolution of birds: natural and sexual selection | Chapter 3.1–3.2
-AUG31 | Introduction to Bird Observation/Identification – South Jenkins|  
+**AUG31** | **Introduction to Bird Observation/Identification**| **South Jenkins**|  
 SEP04 | Evolution of Birds: Speciation | Chapter 3.3
 SEP06 | Evolution of birds: hybridization & radiations | Chapter 3.4–3.6
-SEP07 | Zoo Trip | 
+SEP07 | **Zoo Trip** | 
 SEP11 | Feathers: structure, development, types | Chapter 4.1–4.4
 SEP13 | Feathers: molting, coloration, plumage | Chapter 4.5–4.9
-SEP14 | Feather lab + Birds of Oklahoma I
+**SEP14** | **Feather lab + Birds of Oklahoma I**
 SEP18 | Flight | Chapter 5
 SEP20 | Avian anatomy I | Chapter 6.1–6.4
-SEP21 | Bird Form and Function | 
+**SEP21** | **Bird Form and Function** | 
 SEP25 | Avian anatomy II | Chapter 6.5–6.8
 SEP27 | EXAM 1 | 
-SEP28 | Mistnetting - South Jenkins Roads | 
+**SEP28** | **Mistnetting**| **South Jenkins Roads** | 
 OCT02 | Avian physiology I | Chapter 7.1–7.4
-OCT04 | Avian physiology II	 | Chapter 7.5–7.8		
+OCT04 | Avian physiology II | Chapter 7.5–7.8		
 OCT05 | *No Lab (Review of Birds of Oklahoma and Form/Function)*
 OCT09 | Dispersal and Evolution of Migration | Chapter 12.1–2; 12.6–7
 OCT11 | Migration | Chapter 12.3–12.5
-OCT12 – 14 | Black Mesa Trip
+**OCT12 – 14 | Black Mesa Trip**
 OCT16 | Avian foraging 	 | Chapter 8.1–8.5
 OCT18 | Mating & Social Behavior: Preferences | Chapter 9.1–9.3
-OCT19 | Lab Practical - Avian Form and Function | 
+**OCT19 | Lab Practical - Avian Form and Function** | 
 OCT23 | Mating & Social Behavior: Sexual selection, social behavior | Chapter 9.4–9.6
 OCT25 | Vocalizations: Mechanics | Chapter 10.1–104
-OCT28 | Saturday Trip to Hackberry Flats/Hagerman NWR	
+**OCT28 | Saturday Trip to Hackberry Flats/Hagerman NWR**	
 OCT30 | Avian Sound Evolutionary Ecology | Chapter 10.5–10.8
 NOV01 | EXAM 2 | 
-NOV02 | Skinning I
+**NOV02 | Skinning I**
 NOV06 | Breeding Biology I | Chapter 11.1–11.5
 NOV08 | Breeding Biology II | Chapter 11.6–11.13
-NOV09 | Skinning II | 
+**NOV09 | Skinning II** |
 NOV13 | Temperate vs. Tropical Life History | (Outside reading)
 NOV15 | Population ecology I | Chapter 13.1–13.4
-NOV16 | Point Counts and Fall Birding - Sutton Park | 
+**NOV16 | Point Counts and Fall Birding - Sutton Park**| 
 NOV20 | Population ecology II | Chapter 13.5–13.			
 NOV27 | Community ecology | Chapter 14.1–14.7
 NOV29 | Community ecology | Chapter 14.8–14.13
-NOV30 | Birds of Oklahoma II | 
+**NOV30 | Birds of Oklahoma Specimen Review** | 
 DEC04 | Conservation: Avian extinction and declines | Chapter 15.1–15.5
 DEC06 | Conservation: Regulations and current topics | Chapter 15.6–15.9
-DEC07 | Lab Practical - Birds of Oklahoma
+**DEC07 | Lab Practical - Birds of Oklahoma**
 
 ## GRADING
 |Items | Points| 
