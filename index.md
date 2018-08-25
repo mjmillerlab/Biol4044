@@ -87,7 +87,7 @@ DEC06 | Conservation: Regulations and current topics | Chapter 15.6–15.9
 
 ## GRADING
 
-Items | Points|   
+Items7 | Points|   
  --- | --- |  
  Exam 1 | 80|  
  Exam 2| 80|  
