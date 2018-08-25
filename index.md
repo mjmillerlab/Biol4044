@@ -59,13 +59,13 @@ OCT04 | Avian physiology II | Chapter 7.5–7.8
 *OCT05* | *OU/Texas Weekend* | *No Lab (Review of Birds of Oklahoma and Form/Function)*
 OCT09 | Dispersal and Evolution of Migration | Chapter 12.1–2; 12.6–7
 OCT11 | Migration | Chapter 12.3–12.5
-**OCT12 – 14** | **Black Mesa Trip**
+**OCT12 – 14** |**Weekend Trip**| **Black Mesa Trip**
 OCT16 | Avian foraging 	 | Chapter 8.1–8.5
 OCT18 | Mating & Social Behavior: Preferences | Chapter 9.1–9.3
 **OCT19** | **Lab Practical - Avian Form and Function** | 
 OCT23 | Mating & Social Behavior: Sexual selection, social behavior | Chapter 9.4–9.6
 OCT25 | Vocalizations: Mechanics | Chapter 10.1–104
-**OCT28** | **Saturday Trip to Hackberry Flats/Hagerman NWR**	
+**OCT28** | **Saturday Full Day Trip**|**Hackberry Flats/Hagerman NWR**	
 OCT30 | Avian Sound Evolutionary Ecology | Chapter 10.5–10.8
 NOV01 | EXAM 2 | 
 **NOV02** | **Skinning I**
@@ -74,7 +74,7 @@ NOV08 | Breeding Biology II | Chapter 11.6–11.13
 **NOV09** | **Skinning II** |
 NOV13 | Temperate vs. Tropical Life History | (Outside reading)
 NOV15 | Population ecology I | Chapter 13.1–13.4
-**NOV16** | **Point Counts and Fall Birding - Sutton Park**| 
+**NOV16** | **Point Counts and Fall Birding** | **Sutton Park**| 
 NOV20 | Population ecology II | Chapter 13.5–13.			
 *NOV23* | *Thanksgiving* | *No Class*			
 *NOV23* | *Thanksgiving* | *No Lab*
