@@ -26,6 +26,8 @@ Contemporary educational theory suggests that you will learn most by reading ahe
 
 One final note; the textbook is heavy. Please don’t bring it to class. There is an ebook version of the text, though I haven’t used it.
 
+### 150 Birds of Oklahoma
+During field trips and labs we will emphasize the identification of common, important, and interesting birds found in Oklahoma. You will be required to identify them (either a study specimen, part of a study specimen, or from a photograph) the birds on [this list](https://github.com/mjmillerlab/Biol4044/blob/master/BIOL4044_BIRDSOK_2018.pdf)
 
 ## OFFICE HOURS
 ### Miller:  		Mon 15:00–16:30-, please email ahead of time
