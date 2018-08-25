@@ -84,8 +84,8 @@ DEC06 | Conservation: Regulations and current topics | Chapter 15.6–15.9
 DEC07 | Lab Practical - Birds of Oklahoma
 
 ## GRADING
- |  | 
-| --- | ----  |
+|Items | Points| 
+| --- | ---- |
 | Exam 1 | 80|
 | Exam 2| 80|
 | Final Exam| 120|
