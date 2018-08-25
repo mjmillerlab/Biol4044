@@ -67,36 +67,33 @@ OCT23 | Mating & Social Behavior: Sexual selection, social behavior | Chapter 9.
 OCT25 | Vocalizations: Mechanics | Chapter 10.1–104
 OCT28 | Saturday Trip to Hackberry Flats/Hagerman NWR	
 OCT30 | Avian Sound Evolutionary Ecology | Chapter 10.5–10.8
-
-### NOVEMBER
-1    	EXAM 2
-2	Skinning I
-6   	Breeding Biology I							Chapter 11.1–11.5
-8      	Breeding Biology II							Chapter 11.6–11.13
-9	Skinning II
-13     	Temperate vs. Tropical Life History					(Outside reading)
-15    	Population ecology I							Chapter 13.1–13.4
-16	Point Counts and Fall Birding - Sutton Park
-20    	Population ecology II							Chapter 13.5–13.9
-22    	THANKSGIVING							
-27    	Community ecology							Chapter 14.1–14.7
-29 	Community ecology							Chapter 14.8–14.13
-30	Birds of Oklahoma II
-
-### DECEMBER
-4	Conservation: Avian extinction and declines				Chapter 15.1–15.5
-6        Conservation: Regulations and current topics				Chapter 15.6–15.9
-7	Lab Practical - Birds of Oklahoma
+NOV01 | EXAM 2 | 
+NOV02 | Skinning I
+NOV06 | Breeding Biology I | Chapter 11.1–11.5
+NOV08 | Breeding Biology II | Chapter 11.6–11.13
+NOV09 | Skinning II | 
+NOV13 | Temperate vs. Tropical Life History | (Outside reading)
+NOV15 | Population ecology I | Chapter 13.1–13.4
+NOV16 | Point Counts and Fall Birding - Sutton Park | 
+NOV20 | Population ecology II | Chapter 13.5–13.			
+NOV27 | Community ecology | Chapter 14.1–14.7
+NOV29 | Community ecology | Chapter 14.8–14.13
+NOV30 | Birds of Oklahoma II | 
+DEC04 | Conservation: Avian extinction and declines | Chapter 15.1–15.5
+DEC06 | Conservation: Regulations and current topics | Chapter 15.6–15.9
+DEC07 | Lab Practical - Birds of Oklahoma
 
 ## GRADING
-Exam 1				  80
-Exam 2				  80
-Final Exam 			120
-Lab Practical I			  75
-Lab Practical II			  75
-Lab Exercises			100	
-Lecture Quizzes			100
-Zoo Scavenger Hunt		   30
-eBird /Field Notes		140
-Bird Report			200
+ |  | 
+--- |----  |
+| Exam 1 | 80|
+| Exam 2| 80|
+| Final Exam| 120|
+| Lab Practical I| 75|
+| Lab Practical II| 75|
+| Lab Exercises| 100|	
+| Lecture Quizzes| 100|
+| Zoo Scavenger Hunt| 30|
+| eBird /Field Notes| 140|
+| Bird Report| 200|
 
