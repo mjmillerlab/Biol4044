@@ -36,33 +36,31 @@ One final note; the textbook is heavy. Please don’t bring it to class. There i
 
 Date | Topic| Reading
 --- | --- | ---
-21 | Intro to course; importance of birds| 
-23 | Avian classification, phylogenetics, biogeography| Chapter 2.1–2.3
-24 | Ornithology Collection Tour | 
-28 | Origins of birds, Families of birds| Chapter 2.4, Box2.09
-30 | Evolution of birds: natural and sexual selection| Chapter 3.1–3.2
-31 | Introduction to Bird Observation/Identification – South Jenkins|  
-
-### SEPTEMBER
-4      	Evolution of Birds: Speciation						Chapter 3.3
-6      	Evolution of birds: hybridization & radiations				Chapter 3.4–3.6
-7	Zoo Trip
-11    	Feathers: structure, development, types				Chapter 4.1–4.4
-13    	Feathers: molting, coloration, plumage				Chapter 4.5–4.9
-14	Feather lab + Birds of Oklahoma I
-18    	Flight									Chapter 5
-20    	Avian anatomy I							Chapter 6.1–6.4
-21	Bird Form and Function
-25    	Avian anatomy II 							Chapter 6.5–6.8
-27    	EXAM 1
-28	Mistnetting - South Jenkins Roads
+AUG21 | Intro to course; importance of birds| 
+AUG23 | Avian classification, phylogenetics, biogeography| Chapter 2.1–2.3
+AUG24 | Ornithology Collection Tour | 
+AUG28 | Origins of birds, Families of birds| Chapter 2.4, Box2.09
+AUG30 | Evolution of birds: natural and sexual selection | Chapter 3.1–3.2
+AUG31 | Introduction to Bird Observation/Identification – South Jenkins|  
+SEP4 | Evolution of Birds: Speciation | Chapter 3.3
+6 | Evolution of birds: hybridization & radiations | Chapter 3.4–3.6
+7 | Zoo Trip | 
+11 | Feathers: structure, development, types | Chapter 4.1–4.4
+13 | Feathers: molting, coloration, plumage | Chapter 4.5–4.9
+14 | Feather lab + Birds of Oklahoma I
+18 | Flight | Chapter 5
+20 | Avian anatomy I | Chapter 6.1–6.4
+21 | Bird Form and Function | 
+25 | Avian anatomy II | Chapter 6.5–6.8
+27 | EXAM 1 | 
+28 | Mistnetting - South Jenkins Roads | 
 
 ### OCTOBER
-2      	Avian physiology I							Chapter 7.1–7.4
-4 	Avian physiology II							Chapter 7.5–7.8		
-5	No Lab (Review of Birds of Oklahoma and Form/Function)
-9      	Dispersal and Evolution of Migration					Chapter 12.1–2; 12.6–7
-11 	Migration								Chapter 12.3–12.5
+2 | Avian physiology I							Chapter 7.1–7.4
+4 | Avian physiology II							Chapter 7.5–7.8		
+5 | No Lab (Review of Birds of Oklahoma and Form/Function)
+9 | Dispersal and Evolution of Migration					Chapter 12.1–2; 12.6–7
+11 | Migration								Chapter 12.3–12.5
 12 – 14 		Black Mesa Trip
 16    	Avian foraging 								Chapter 8.1–8.5
 18	Mating & Social Behavior	: Preferences					Chapter 9.1–9.3
@@ -93,13 +91,14 @@ Date | Topic| Reading
 7	Lab Practical - Birds of Oklahoma
 
 ## GRADING
-Exam 1				100
-Exam 2				100
-Final Exam 			150
-Lab Practical I			100
-Lab Practical II		100
-Lecture & Lab Quizzes		100
-Zoo Scavenger Hunt		 50
-eBird /Field Notes		100
+Exam 1				  80
+Exam 2				  80
+Final Exam 			120
+Lab Practical I			  75
+Lab Practical II			  75
+Lab Exercises			100	
+Lecture Quizzes			100
+Zoo Scavenger Hunt		   30
+eBird /Field Notes		140
 Bird Report			200
 
