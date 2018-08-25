@@ -56,7 +56,7 @@ SEP27 | EXAM 1 |
 SEP28 | Mistnetting - South Jenkins Roads | 
 OCT02 | Avian physiology I | Chapter 7.1–7.4
 OCT04 | Avian physiology II	 | Chapter 7.5–7.8		
-OCT05 | No Lab (Review of Birds of Oklahoma and Form/Function)
+OCT05 | *No Lab (Review of Birds of Oklahoma and Form/Function)*
 OCT09 | Dispersal and Evolution of Migration | Chapter 12.1–2; 12.6–7
 OCT11 | Migration | Chapter 12.3–12.5
 OCT12 – 14 | Black Mesa Trip
