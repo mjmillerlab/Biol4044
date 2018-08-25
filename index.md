@@ -85,7 +85,7 @@ DEC07 | Lab Practical - Birds of Oklahoma
 
 ## GRADING
  |  | 
---- |----  |
+| --- | ----  |
 | Exam 1 | 80|
 | Exam 2| 80|
 | Final Exam| 120|
