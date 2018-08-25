@@ -54,6 +54,10 @@ SEP21 | Bird Form and Function |
 SEP25 | Avian anatomy II | Chapter 6.5–6.8
 SEP27 | EXAM 1 | 
 SEP28 | Mistnetting - South Jenkins Roads | 
+
+
+
+
 OCT02 | Avian physiology I							Chapter 7.1–7.4
 4 | Avian physiology II							Chapter 7.5–7.8		
 5 | No Lab (Review of Birds of Oklahoma and Form/Function)
