@@ -42,21 +42,19 @@ AUG24 | Ornithology Collection Tour |
 AUG28 | Origins of birds, Families of birds| Chapter 2.4, Box2.09
 AUG30 | Evolution of birds: natural and sexual selection | Chapter 3.1–3.2
 AUG31 | Introduction to Bird Observation/Identification – South Jenkins|  
-SEP4 | Evolution of Birds: Speciation | Chapter 3.3
-6 | Evolution of birds: hybridization & radiations | Chapter 3.4–3.6
-7 | Zoo Trip | 
-11 | Feathers: structure, development, types | Chapter 4.1–4.4
-13 | Feathers: molting, coloration, plumage | Chapter 4.5–4.9
-14 | Feather lab + Birds of Oklahoma I
-18 | Flight | Chapter 5
-20 | Avian anatomy I | Chapter 6.1–6.4
-21 | Bird Form and Function | 
-25 | Avian anatomy II | Chapter 6.5–6.8
-27 | EXAM 1 | 
-28 | Mistnetting - South Jenkins Roads | 
-
-### OCTOBER
-2 | Avian physiology I							Chapter 7.1–7.4
+SEP04 | Evolution of Birds: Speciation | Chapter 3.3
+SEP06 | Evolution of birds: hybridization & radiations | Chapter 3.4–3.6
+SEP07 | Zoo Trip | 
+SEP11 | Feathers: structure, development, types | Chapter 4.1–4.4
+SEP13 | Feathers: molting, coloration, plumage | Chapter 4.5–4.9
+SEP14 | Feather lab + Birds of Oklahoma I
+SEP18 | Flight | Chapter 5
+SEP20 | Avian anatomy I | Chapter 6.1–6.4
+SEP21 | Bird Form and Function | 
+SEP25 | Avian anatomy II | Chapter 6.5–6.8
+SEP27 | EXAM 1 | 
+SEP28 | Mistnetting - South Jenkins Roads | 
+OCT02 | Avian physiology I							Chapter 7.1–7.4
 4 | Avian physiology II							Chapter 7.5–7.8		
 5 | No Lab (Review of Birds of Oklahoma and Form/Function)
 9 | Dispersal and Evolution of Migration					Chapter 12.1–2; 12.6–7
